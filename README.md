@@ -80,16 +80,18 @@ Labtop
 
 *Dashboard view with branding, animated UI, and forum entry section*
 
-![Screenshot2]Screenshort 2.png
+![Screenshot2]<img width="1470" height="840" alt="Screenshot 2" src="https://github.com/user-attachments/assets/3a89e9d2-adf4-4cfa-ae6a-5e1aa8c72431" />
+
 *Add caption explaining what this shows*
 
-![Screenshot3]Screenshort 3.png
+![Screenshot3]<img width="1470" height="842" alt="Screenshot 3" src="https://github.com/user-attachments/assets/eb4f691c-4447-4959-8204-fa4d5ae2f30e" />
+
 *Add caption explaining what this shows*
 
 
 #### Build Photos
 
-![Team](Add photo of your team here)
+
 
 ![Components](Add photo of your components here)
 *List out all components shown*
