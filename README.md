@@ -82,25 +82,17 @@ Labtop
 
 ![Screenshot2]<img width="1470" height="840" alt="Screenshot 2" src="https://github.com/user-attachments/assets/3a89e9d2-adf4-4cfa-ae6a-5e1aa8c72431" />
 
-*Add caption explaining what this shows*
-
+Dashboard view with branding, animated UI, and forum entry section
 ![Screenshot3]<img width="1470" height="842" alt="Screenshot 3" src="https://github.com/user-attachments/assets/eb4f691c-4447-4959-8204-fa4d5ae2f30e" />
 
-*Add caption explaining what this shows*
+Dashboard view with branding, animated UI, and forum entry section
 
 
 #### Build Photos
 
+<img width="4032" height="3024" alt="Team" src="https://github.com/user-attachments/assets/ae7e9fc4-d41b-4314-8fbc-5b95ff591e08" />
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ---
 
