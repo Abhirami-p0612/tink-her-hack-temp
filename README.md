@@ -1,4 +1,4 @@
-<p align="center">
+<img width="4032" height="3024" alt="Team" src="https://github.com/user-attachments/assets/581095eb-079e-4f8f-adac-63517145cc1b" /><p align="center">
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
@@ -38,9 +38,7 @@ NexPlan centralizes forum, mentor, and event data in a single dashboard. It prov
 - ⁠Libraries used: Firebase JavaScript SDK (Firestore
 - Tools used: VS Code, Git, GitHub, Browser DevTools
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: Laptop
 
 ---
 
@@ -48,9 +46,9 @@ NexPlan centralizes forum, mentor, and event data in a single dashboard. It prov
 
 List the key features of your project:
 - ⁠Feature 1: Forum creation and management with logo support
-- ⁠Feature 1: Forum creation and management with logo support
-- ⁠Feature 1: Forum creation and management with logo support
-- ⁠Feature 1: Forum creation and management with logo support
+- Feature 2: Mentor directory with branch wise grouping and full CRUD(add/edit/delete)
+- ⁠Feature 3: AI mentor suggestion chapbot that recommends top mentor matches from user prompts
+- ⁠Feature 4: Event records and history tracking for idea/ reference support
 ---
 
 ## Implementation
